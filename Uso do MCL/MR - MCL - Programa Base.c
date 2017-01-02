@@ -37,6 +37,7 @@ char penter[] = "Pressione ENTER";
 unsigned short kp = 0;
 char keypadPort at P0;
 
+//Funções variadas
 void limpamlc()
 {
   LCD_Cmd(_LCD_CLEAR);
