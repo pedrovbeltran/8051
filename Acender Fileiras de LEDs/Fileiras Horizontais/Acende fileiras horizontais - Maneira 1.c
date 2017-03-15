@@ -8,7 +8,7 @@
 
 //-------------------------------------------------------------------------------------*/
 
-///Funções para acender as fileiras de DELs
+/// Funções para acender as fileiras de DELs
 
 void acende_f0()
 {
@@ -74,14 +74,14 @@ void acende_f7()
     p3=0x7F;
 }
 
-///Função que gera atraso
+/// Função que gera atraso
 
 void espera()
 {
     delay_ms(100);
 }
 
-///Função Principal
+/// Função Principal
 
 void main(void) {
 
