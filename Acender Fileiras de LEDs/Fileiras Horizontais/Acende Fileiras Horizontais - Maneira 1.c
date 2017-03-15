@@ -1,7 +1,9 @@
 /*------------------------------------------------------------------------------------//
+
             Prática Simples com fileiras horizontais de DELs (Diodos Emissores de Luz)
             Código elaborado por: Pedro Beltran
             Esta obra está licenciada com uma licença GNU AGPL-3.0
+        
 //-------------------------------------------------------------------------------------*/
 
 /// Funções para acender as fileiras de DELs
