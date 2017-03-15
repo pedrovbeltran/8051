@@ -5,7 +5,7 @@
             com o Monitor de Cristal Líquido
 
             Código elaborado por: Pedro Beltran
-            Baseado no código em Assembly elaborado por: Nilson Fernandes
+            Baseado no código em C elaborado por: Nilson Fernandes
 
             Esta obra está licenciada com uma licença GNU AGPL-3.0
 
